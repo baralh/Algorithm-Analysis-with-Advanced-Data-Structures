@@ -1,7 +1,7 @@
 # Algorithm-Analysis-with-Advanced-Data-Structures
 
 
-Foundations <br/>
+Foundations: <br/>
 Algorithm analysis, efficiency, asymptotic notation <br />
 <br />
 Sorting Algorithms<br />
